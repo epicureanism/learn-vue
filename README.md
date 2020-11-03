@@ -1,4 +1,3 @@
-# learn-vue
 
 ## Require vs Import
 | require                                                                                                                                                                                                                                               | import                                                                                                                                                                                                                                                   |
